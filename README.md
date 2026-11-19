@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:a371f7&height=200&section=header&text=Aman&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20Quant%20Engineer%20%7C%20I%20ship%20AI%20that%20survives%20production&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:f778ba&height=220&section=header&text=Aman&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20%26%20Quant%20Engineer%20%E2%80%A2%20I%20ship%20AI%20that%20survives%20production&descAlignY=56&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+holds+up+outside+the+demo;LLM+evaluation+%40+Outlier+%E2%80%94+GPT-4%2C+Claude%2C+DeepSeek;Explainable+AI+for+Parkinson's+from+MRI;Quant+%2F+systematic+trading+research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=50&lines=Building+AI+that+holds+up+outside+the+demo;LLM+evaluation+%40+Outlier+%E2%80%94+GPT-4%2C+Claude%2C+DeepSeek;Explainable+AI+for+Parkinson's+from+MRI;Quant+%2F+systematic+trading+research)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-cve-7773631a6/)
-[![Location](https://img.shields.io/badge/Gurugram,_India-30363D?style=for-the-badge&logo=googlemaps&logoColor=EA4335)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=Aman-cve&style=for-the-badge&color=58a6ff)
+<a href="https://www.linkedin.com/in/aman-cve-7773631a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gurugram,_India-30363D?style=for-the-badge&logo=googlemaps&logoColor=EA4335"/>
+<img src="https://komarev.com/ghpvc/?username=Aman-cve&style=for-the-badge&color=a371f7&label=PROFILE+VIEWS"/>
 
 </div>
-
----
 
 ## 🚀 About me
 
@@ -28,29 +26,22 @@ class Aman:
         return "Turning AI prototypes into things that actually work at scale"
 ```
 
-- 🔭 **Working on:** [`quant-alpha`](https://github.com/Aman-cve/quant-alpha) — a multi-strategy quant backtesting engine on real US & Indian market data
-- 🧠 **Research:** explainable AI for **Parkinson's detection from MRI** (why the model decides, not just what)
-- 💼 **Day job:** quality analysis & improvement of frontier LLM outputs at **Outlier**
-- 🎯 **Also:** prepping for **GATE DA** · open to **ML / AI / quant engineering roles**
+- 🔭 **Working on** → [`quant-alpha`](https://github.com/Aman-cve/quant-alpha), a multi-strategy quant backtesting engine on real US & Indian market data
+- 🧠 **Research** → explainable AI for **Parkinson's detection from MRI** (the *why*, not just the score)
+- 💼 **Day job** → quality analysis & improvement of frontier **LLM** outputs at **Outlier**
+- 🎯 **Open to** → ML / AI / quant engineering roles · also prepping **GATE DA**
 
----
+<br/>
 
 ## 🛠️ Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<div align="center">
 
-![LLMs](https://img.shields.io/badge/LLMs-GPT--4_·_Claude_·_DeepSeek-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,git,github,githubactions,linux,bash,postgres,vscode,c,cpp&theme=dark&perline=7"/>
 
----
+</div>
+
+<br/>
 
 ## 📌 Featured projects
 
@@ -59,49 +50,83 @@ class Aman:
 <td width="50%" valign="top">
 
 ### ⚡ [quant-alpha](https://github.com/Aman-cve/quant-alpha)
-Multi-strategy quantitative backtesting engine for **US & Indian equities**. Momentum, stat-arb pairs, trend-following & mean-reversion on real market data — transaction-cost aware, no look-ahead, pure Python + NumPy.
+Multi-strategy **quant backtesting engine** for US & Indian equities. Momentum, stat-arb pairs, trend & mean-reversion on real market data — cost-aware, no look-ahead, pure Python + NumPy.
 
-`Python` `NumPy` `SciPy` `Quant`
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
-**Highlight:** 6-1 momentum on NSE → **Sharpe 1.10**, −3.5% max drawdown.
+> **Sharpe 1.10** · −3.5% max DD on NSE momentum
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 pd-xai · *(in progress)*
-Explainable AI for **Parkinson's disease detection from MRI** — pairing CNN predictions with interpretability so clinicians see *why*, not just a score.
+### 🧠 pd-xai · *in progress*
+Explainable AI for **Parkinson's detection from MRI** — pairing CNN predictions with interpretability so clinicians see *why*, not just a score.
 
-`PyTorch` `Medical Imaging` `XAI`
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![XAI](https://img.shields.io/badge/-Explainable_AI-8A2BE2)
 
-**Focus:** trustworthy, interpretable diagnosis.
+> Trustworthy, interpretable diagnosis
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub stats
+## 📊 Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-cve&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-cve&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-cve&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=f778ba&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-cve&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
 
-<img src="https://streak-stats.demolab.com?user=Aman-cve&hide_border=true&background=0d1117&stroke=58a6ff&ring=a371f7&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Aman-cve&hide_border=true&background=0d1117&stroke=a371f7&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-cve&bg_color=0d1117&color=58a6ff&line=a371f7&point=f778ba&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%"/>
 
 </div>
 
----
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aman-cve&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+<br/>
+
+## 🧊 3D contribution graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="98%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Watch my contributions get eaten
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aman-cve/Aman-cve/output/github-snake-dark.svg" width="98%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 ### 💬 Let's build something that ships
 
-[![LinkedIn](https://img.shields.io/badge/Reach_out_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-cve-7773631a6/)
+<a href="https://www.linkedin.com/in/aman-cve-7773631a6/"><img src="https://img.shields.io/badge/Reach_out_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <sub><i>"Not your typical engineer — I win by shipping."</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:58a6ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f778ba,50:a371f7,100:58a6ff&height=120&section=footer" width="100%"/>
 
 </div>
